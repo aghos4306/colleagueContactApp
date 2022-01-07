@@ -1,7 +1,8 @@
-package com.example.mvvmcolleaguescontact
+package com.example.mvvmcolleaguescontact.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mvvmcolleaguescontact.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
